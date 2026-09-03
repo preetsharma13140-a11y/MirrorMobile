@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="MIRROR_updates"
+        path="updates/" />
+    <cache-path
+        name="MIRROR_subtitles"
+        path="subtitles/" />
+    <files-path
+        name="MIRROR_downloads"
+        path="downloads/" />
+</paths>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mirror notification icon — a stylised "M" lettermark -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M3,20 L3,4 L7,4 L12,13 L17,4 L21,4 L21,20 L18,20 L18,9 L13.5,17 L10.5,17 L6,9 L6,20 Z" />
+</vector>

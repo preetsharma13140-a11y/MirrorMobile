@@ -1,0 +1,6 @@
+﻿#include? "Version.xcconfig"
+
+TEAM_ID=
+
+PRODUCT_NAME=Mirror
+PRODUCT_BUNDLE_IDENTIFIER=com.mirror.app.Mirror$(TEAM_ID)
