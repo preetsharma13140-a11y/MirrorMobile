@@ -1,4 +1,5 @@
-﻿name: Build Android Release
+# Mirror Mobile Android Release Workflow
+name: Build Android Release
 
 on:
   workflow_dispatch:
