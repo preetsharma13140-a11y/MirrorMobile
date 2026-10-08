@@ -1,0 +1,5 @@
+# Force LF line endings for shell scripts and YAML on all platforms
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
