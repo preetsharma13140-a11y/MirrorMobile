@@ -1,4 +1,4 @@
-﻿package com.mirror.app.features.settings
+package com.mirror.app.features.settings
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -46,7 +46,7 @@ private const val PremiumizeUrl = "https://www.premiumize.me"
 private const val TorboxUrl = "https://torbox.app"
 private const val MdbListUrl = "https://mdblist.com"
 private const val IntroDbUrl = "https://introdb.app/"
-private const val MirrorRepositoryUrl = "https://github.com/TheRealSharma/MirrorMobile-"
+private const val MirrorRepositoryUrl = "https://github.com/TheRealSharma/MirrorMobile"
 private const val MpvKitUrl = "https://github.com/mpvkit/MPVKit"
 private const val ApacheLicenseUrl = "https://www.apache.org/licenses/LICENSE-2.0"
 
