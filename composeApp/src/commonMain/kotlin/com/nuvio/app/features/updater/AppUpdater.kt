@@ -23,7 +23,7 @@ import kotlinx.coroutines.runBlocking
 import mirror.composeapp.generated.resources.*
 import org.jetbrains.compose.resources.getString
 
-private const val gitHubOwner = "TheRealSharma"
+private const val gitHubOwner = "preetsharma13140-a11y"
 private const val gitHubRepo = "MirrorMobile"
 private const val gitHubApiBase = "https://api.github.com"
 private const val releaseChannelBranch = "cmp-rewrite"

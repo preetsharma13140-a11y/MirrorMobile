@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/TheRealSharma/MirrorMobile/blob/main/assets/brand/app_logo_wordmark.png" alt="Mirror" width="300" />
+  <img src="https://github.com/preetsharma13140-a11y/MirrorMobile/blob/main/assets/brand/app_logo_wordmark.png" alt="Mirror" width="300" />
   <br />
   <br />
 
@@ -28,7 +28,7 @@ The mobile app is built from a single shared codebase in [composeApp](./composeA
 
 ### Android
 
-Download the latest Android build from [GitHub Releases](https://github.com/TheRealSharma/MirrorMobile/releases/latest).
+Download the latest Android build from [GitHub Releases](https://github.com/preetsharma13140-a11y/MirrorMobile/releases/latest).
 
 ### iOS
 
@@ -37,7 +37,7 @@ Download the latest Android build from [GitHub Releases](https://github.com/TheR
 ## Development
 
 ```bash
-git clone https://github.com/TheRealSharma/MirrorMobile.git
+git clone https://github.com/preetsharma13140-a11y/MirrorMobile.git
 cd MirrorMobile
 ./scripts/run-mobile.sh android
 # or
@@ -80,22 +80,22 @@ For comprehensive legal information, including our full disclaimer, third-party 
 
 ## Star History
 
-<a href="https://www.star-history.com/#TheRealSharma/MirrorMobile&type=date&legend=top-left">
+<a href="https://www.star-history.com/#preetsharma13140-a11y/MirrorMobile&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TheRealSharma/MirrorMobile&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TheRealSharma/MirrorMobile&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=TheRealSharma/MirrorMobile&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=preetsharma13140-a11y/MirrorMobile&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=preetsharma13140-a11y/MirrorMobile&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=preetsharma13140-a11y/MirrorMobile&type=date&legend=top-left" />
  </picture>
 </a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/TheRealSharma/MirrorMobile.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheRealSharma/MirrorMobile/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TheRealSharma/MirrorMobile.svg?style=for-the-badge
-[forks-url]: https://github.com/TheRealSharma/MirrorMobile/network/members
-[stars-shield]: https://img.shields.io/github/stars/TheRealSharma/MirrorMobile.svg?style=for-the-badge
-[stars-url]: https://github.com/TheRealSharma/MirrorMobile/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TheRealSharma/MirrorMobile.svg?style=for-the-badge
-[issues-url]: https://github.com/TheRealSharma/MirrorMobile/issues
-[license-shield]: https://img.shields.io/github/license/TheRealSharma/MirrorMobile.svg?style=for-the-badge
-[license-url]: https://github.com/TheRealSharma/MirrorMobile/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/preetsharma13140-a11y/MirrorMobile.svg?style=for-the-badge
+[contributors-url]: https://github.com/preetsharma13140-a11y/MirrorMobile/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/preetsharma13140-a11y/MirrorMobile.svg?style=for-the-badge
+[forks-url]: https://github.com/preetsharma13140-a11y/MirrorMobile/network/members
+[stars-shield]: https://img.shields.io/github/stars/preetsharma13140-a11y/MirrorMobile.svg?style=for-the-badge
+[stars-url]: https://github.com/preetsharma13140-a11y/MirrorMobile/stargazers
+[issues-shield]: https://img.shields.io/github/issues/preetsharma13140-a11y/MirrorMobile.svg?style=for-the-badge
+[issues-url]: https://github.com/preetsharma13140-a11y/MirrorMobile/issues
+[license-shield]: https://img.shields.io/github/license/preetsharma13140-a11y/MirrorMobile.svg?style=for-the-badge
+[license-url]: https://github.com/preetsharma13140-a11y/MirrorMobile/blob/main/LICENSE
